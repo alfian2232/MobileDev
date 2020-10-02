@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Utilisateurs de Github</string>
+    <string name="content_image">Chargement de l\'image</string>
+    <string name="detail_name">Détails de l\'utilisateur</string>
+    <string name="language_setting">Changer de langue</string>
+    <string name="followers">Suiveurs</string>
+    <string name="following">Suivant</string>
+    <string name="location">Emplacement</string>
+    <string name="loading">Chargement</string>
+    <string name="cancel">Annuler</string>
+</resources>
